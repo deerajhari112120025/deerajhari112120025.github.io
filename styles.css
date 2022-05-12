@@ -1,0 +1,109 @@
+body {
+  margin:0;
+  text-align: center;
+
+
+
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 50px;
+  width:20%;
+  margin: 0 auto;
+  font-family: 'Permanent Marker', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+p {
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  margin: auto;
+  width:50%;
+  line-height: 2;
+
+
+
+}
+h2{
+  color:#66BFBF;
+  font-size: 40px;
+  font-weight: normal;
+
+}
+
+h3{
+  color: #11999E;
+}
+
+.top-container {
+  padding-top: 210px;
+
+  background-color: #D4ECDD;
+  position: relative;
+
+
+}
+.middle-container{
+
+background-color: #345B63;
+margin:200px,0;
+}
+.bottom-container{
+  background-color:#152D35;
+
+}
+.top-cloud{position: absolute;
+  right: 350px;
+  top: 100px;
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+
+}
+.pic{
+border-radius: 150px;
+padding:50px;
+
+
+}
+.footballpic{
+  border-radius: 150px;
+
+}
+.keyboardpic{
+  border-radius:150px;
+
+}
+.academicpic{
+  border-radius: 150px;
+}
+.profile{ width: 50%;
+  margin: auto;
+
+
+}
+.intro{
+
+  width:75%;
+}
+
+hr{
+  color: #88E0EF;
+}
+.skill-row2{
+
+padding:50px;}
+.skill-row1{
+  padding:50px;
+}
+.skill-row3{
+  padding:50px;
+}
